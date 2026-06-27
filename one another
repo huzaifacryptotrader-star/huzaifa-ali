@@ -1,0 +1,25 @@
+<!DOCTYPE html> <!-- Document type declaration -->
+<html lang="en"> <!--This is a comment -->
+   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Did you know?</title>
+  </head>
+  <body>
+    <h1>Did you know?</h1>
+    <p>There are many qoutes which can make you feel good but at the same time they can be the big lesson of your life
+     <p>there is an qoute in english that says :<br>
+      
+        <h2>Quote</h2>
+    <p>someone once asked me</p> :<br>
+       whats more worser :<br>
+       loving someomne you cant have , or having someone you cant love <br>
+       
+       <h3> he replied</h3> 
+        <p>leaving someone you can never unlove.</p> 
+
+   
+    
+  </body>
+  
+</html>
